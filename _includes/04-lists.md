@@ -1,5 +1,5 @@
 **Goals**
-1. Learn a Programming Language :heavy_check_mark:
+1. Learn a Programming Language ✓
 2. Continue learning CS
    * get degree
 3. ???
